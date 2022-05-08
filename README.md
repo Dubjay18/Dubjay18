@@ -10,12 +10,15 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-### Hi there 👋
-
+<h1>
+ Hi there 👋
+</h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+<h2>
  :man_technologist: About Me :
+</h2>
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br/>
 - 🔭 I’m currently working on my personal projects and building my portfolio. <br/>
 - 🌱 I’m currently learning blockchain development. <br/>
