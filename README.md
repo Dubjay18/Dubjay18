@@ -21,7 +21,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🌱 I’m currently learning blockchain development. <br/>
 - :zap: In my free time, I solve problems on codewars.<br/>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/oluwayanfunmi-jeje-a023b2210">
-    <img src="https://img.shields.io/badge/-kakbar-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-Yanfunmi-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a><br/>
 - 😄 Pronouns: He/Him<br/>
 - ⚡ Fun fact: I eat and breath react.😏<br/>
