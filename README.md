@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/spongebob-spongebob-squarepants-episode-15-3ogwFGEHrVxusDbDjO" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 <div id="badges">
@@ -16,15 +16,15 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
  :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🔭 I’m currently working on my personal projects and building my portfolio. 
-- 🌱 I’m currently learning blockchain developmentt. 
-- :zap: In my free time, I solve problems on co-stars.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br/>
+- 🔭 I’m currently working on my personal projects and building my portfolio. <br/>
+- 🌱 I’m currently learning blockchain development. <br/>
+- :zap: In my free time, I solve problems on codewars.<br/>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/oluwayanfunmi-jeje-a023b2210">
     <img src="https://img.shields.io/badge/-kakbar-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I eat and breath react.😏
+  </a><br/>
+- 😄 Pronouns: He/Him<br/>
+- ⚡ Fun fact: I eat and breath react.😏<br/>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
