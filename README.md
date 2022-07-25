@@ -3,10 +3,7 @@
 </div>
 <br/>
 <br/>
-<div align="center">
-<a href="https://app.daily.dev/Dubjay18"><img src="https://api.daily.dev/devcards/e2d01cf474d246619e8446877d380b11.png?r=qy9" width="400" alt="Oluwayanfunmi Jeje's Dev Card"/></a>
-   </div>
-   <br/><br/><br/>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/oluwayanfunmi-jeje-a023b2210">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
