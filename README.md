@@ -21,7 +21,7 @@
 <h2>
  :man_technologist: About Me :
 </h2>
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="10"><br/>
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="10"/><br/>
 - 🔭 I’m currently working on my personal projects and building my portfolio. <br/>
 - 🌱 I’m currently learning blockchain development. <br/>
 - :zap: In my free time, I watch movies, play games and I solve problems on codewars.<br/>
