@@ -56,4 +56,4 @@ I am a Software engineer || React specialist || Node.js developer <br/>
 
 
 
-![](https://komarev.com/ghpvc/?username=Dubjay18&color=blue)
+![](https://komarev.com/ghpvc/?username=Dubjay18&color=red)
