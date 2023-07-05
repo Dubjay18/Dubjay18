@@ -23,13 +23,13 @@
 </h2>
 I am a Software engineer || React specialist || Node.js developer <br/>
 - 🔭 I’m currently working on my personal projects and building my portfolio. <br/>
-- 🌱 I’m currently learning blockchain development. <br/>
-- :zap: In my free time, I watch movies, play games and I solve problems on codewars.<br/>
+- 🌱 I’m currently learning mobile development with React native. <br/>
+- :zap: In my free time, I watch movies, watch anime, play games and I solve problems on codewars.<br/>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/oluwayanfunmi-jeje-a023b2210">
     <img src="https://img.shields.io/badge/-Yanfunmi-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a><br/>
 - 😄 Pronouns: He/Him<br/>
-- ⚡ Fun fact: I eat and breath react.😏<br/>
+- ⚡ Fun fact: I eat and breath Next.js.😏<br/>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
