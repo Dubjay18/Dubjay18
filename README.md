@@ -10,6 +10,11 @@
 <h1>
  Yo 👋
 </h1>
+
+<div align="center">
+    <img src="https://media.giphy.com/media/qsejBhz2QrVKG2r48E/giphy.gif"  class="giphy-embed" alt="giphy"/>
+</div>
+
 <h2>
  :man_technologist: About Me :
 </h2>
