@@ -1,9 +1,4 @@
-<div id="header" align="center">
-   <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="100"/>
-</div>
-<br/>
-<br/>
-<br/>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/oluwayanfunmi-jeje-a023b2210">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,22 +8,17 @@
   </a>
 </div>
 <h1>
- Hi there 👋
+ Yo 👋
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/f3CtEsJ72j86DIumaJ/giphy.gif" height="300"/>
-</div>
 <h2>
  :man_technologist: About Me :
 </h2>
-I am a Software engineer || Next.js specialist <br/>
+I am a Software engineer  <br/>
 - 🔭 I’m currently building cool stuff. <br/>
-- :zap: In my free time, I watch movies, watch anime, play games and I solve problems on codewars.<br/>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/dubjay">
     <img src="https://img.shields.io/badge/-Yanfunmi-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a><br/>
 - 😄 Pronouns: He/Him<br/>
-- ⚡ Fun fact: I eat and breathe Next.js.😏<br/>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
