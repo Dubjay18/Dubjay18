@@ -33,7 +33,7 @@ I am a Software engineer  <br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
 </div>
-[![wakatime](https://wakatime.com/badge/user/dd89bfa2-f318-4447-81f6-3c6f52351fe8.svg)](https://wakatime.com/@dd89bfa2-f318-4447-81f6-3c6f52351fe8)
+  <img src="https://wakatime.com/badge/user/dd89bfa2-f318-4447-81f6-3c6f52351fe8.svg" title="Wakatime" alt="Wakatime" />&nbsp;
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dubjay18&show_icons=true&theme=merko)
 ### :fire: My Stats :
