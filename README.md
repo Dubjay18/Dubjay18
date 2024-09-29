@@ -1,48 +1,22 @@
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/oluwayanfunmi-jeje-a023b2210">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/YanfunmiJ?t=NLCI9ZvdUXUs7ZGCDk35_g&s=09">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<h1>
- Yo 👋
-</h1>
-
-<div align="center">
-    <img src="https://media.giphy.com/media/qsejBhz2QrVKG2r48E/giphy.gif"  class="giphy-embed" alt="giphy"/>
-</div>
-
-<h2>
- :man_technologist: About Me :
-</h2>
-I am a Software engineer  <br/>
-- 🔭 I’m currently building.... <br/>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/dubjay">
-    <img src="https://img.shields.io/badge/-Yanfunmi-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a><br/>
-- 😄 Pronouns: He/Him<br/>
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typscript" alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
-</div>
-  <img src="https://wakatime.com/badge/user/dd89bfa2-f318-4447-81f6-3c6f52351fe8.svg" title="Wakatime" alt="Wakatime" />&nbsp;
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dubjay18&show_icons=true&theme=merko)
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dubjay18&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dubjay18&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-activity-graph.vercel.app/graph?username=Dubjay18&theme=merko)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDubjay18%2Fhit-counter&count_bg=%230894CA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# 💫 About Me:
+🔭 I’m currently working on Qraven<br>🌱 I’m currently learning more about golang<br>⚡ Fun fact: I'm HIM
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/dubjay) 
 
-![](https://komarev.com/ghpvc/?username=Dubjay18&color=red)
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dubjay18&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dubjay18&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dubjay18&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Dubjay18&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Dubjay18&icon=8&color=9)](https://visitcount.itsvg.in)
