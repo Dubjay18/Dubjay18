@@ -1,5 +1,17 @@
+
+
+
+<br />
+
+<a href="https://gitroll.io/profile/uT81NUDpWc9RdDD3Dh1UxJIUQQk62" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uT81NUDpWc9RdDD3Dh1UxJIUQQk62" alt="GitRoll Profile Badge"/></a>
+
+<br /> <br />
 # 💫 About Me:
-🔭 I’m currently working on Qraven<br>🌱 I’m currently learning more about golang<br>⚡ Fun fact: I'm HIM
+🌀 I'm Jeje Yanfunmi, Software Engineer. Problem Solver. Dream Weaver.
+I code to shape ideas into reality, navigating the chaos with TypeScript, Golang, and a hint of Python.<br/>
+⚡ Philosophy:
+In code, I trust. Everything else is an abstraction.
+
 
 
 ## 🌐 Socials:
