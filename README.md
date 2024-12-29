@@ -7,7 +7,7 @@
 
 <br /> <br />
 # 💫 About Me:
-🌀 I'm Jeje Yanfunmi, Software Engineer. Problem Solver. Dream Weaver.
+🌀 I'm Jeje Yanfunmi(Jay), Software Engineer. Problem Solver. Dream Weaver.
 I code to shape ideas into reality, navigating the chaos with TypeScript, Golang, and a hint of Python.<br/>
 ⚡ Philosophy:
 In code, I trust. Everything else is an abstraction.
