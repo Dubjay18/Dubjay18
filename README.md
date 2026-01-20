@@ -21,7 +21,7 @@ I'm always open to collaborating on projects or simply sharing ideas about **tec
 
 - **Portfolio**: [Jayfolio 🚧](https://jayfolio.vercel.app)  
 - **LinkedIn**: [Yanfunmi Jeje](https://linkedin.com/in/dubjay)  
-- **Dev Blog**: [My Articles on Hashnode](https://medium.com/@jejeniyi7)  
+- **Dev Blog**: [My Articles](https://medium.com/@jejeniyi7)  
 
 ---
 
