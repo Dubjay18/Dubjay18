@@ -1,15 +1,14 @@
 # 👋 Hello, World! I'm Yanfunmi Jeje (Jay)
 
-**Backend and Frontend Developer | Lifelong Learner | Problem Solver**
+**Software engineer | Lifelong Learner | Problem Solver**
 
 ---
 
 ### 🌟 About Me  
 - 🛠 **Tech Stack**:  
-  **Frontend**: React, Next.js, React Native (Expo)  
+  **Frontend**: React Native (Expo)  
   **Backend**: Golang, TypeScript  
-  **Databases**: MongoDB, PostgreSQL  
-  **DevOps**: Docker, AWS  
+
 
 - 🌍 **What I Do**:  
   I'm passionate about crafting impactful solutions at the intersection of **tech and creativity**. Whether building interactive **mobile apps**, designing robust **backend systems**, or exploring the cutting-edge of **blockchain** and **AI**, I'm always excited to take on new challenges.
