@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Yanfunmi Jeje (Jay)
+# 👋 Hello, World! I'm Jay
 
 **Software engineer | Lifelong Learner | Problem Solver**
 
@@ -18,8 +18,7 @@
 ### 🤝 Let's Connect!  
 I'm always open to collaborating on projects or simply sharing ideas about **tech**, **movies**, or **life**. 
 
-- **Portfolio**: [Jayfolio 🚧](https://jayfolio.vercel.app)  
-- **LinkedIn**: [Yanfunmi Jeje](https://linkedin.com/in/dubjay)  
+- **Portfolio**: [Jayfolio 🚧](https://jayfolio.dev)  
 - **Dev Blog**: [My Articles](https://medium.com/@jejeniyi7)  
 
 ---
